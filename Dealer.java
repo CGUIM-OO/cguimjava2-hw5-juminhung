@@ -1,4 +1,3 @@
-
 public class Dealer extends Person {
 	@Override
 	public boolean hit_me(Table tbl) {
